@@ -43,4 +43,5 @@ function first(arr, n) {
     } else if (!n) {
         n = 1;
     }
-    return arr.slice(0, n);
+    return arr.slice(0, n)
+}
