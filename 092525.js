@@ -2,7 +2,7 @@
 
     // DESCRIPTION:
 
-Problem:
+// Problem:
 // You forgot to count the number of toast you put into there, you 
 // don't know if you put exactly six pieces of toast into the toasters.
 
