@@ -2,7 +2,7 @@
 
     // DESCRIPTION:
 
-Description:
+// Description:
 // Our football team has finished the championship.
 
 // Our team's match results are recorded in a collection of strings. 
