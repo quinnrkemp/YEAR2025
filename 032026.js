@@ -88,3 +88,4 @@ function pushElement(arr){
 function popElement(arr){
   //pop an element from arr
   arr.pop()
+}
